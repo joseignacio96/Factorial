@@ -9,6 +9,7 @@ package factorial;
  *
  * @author jmllamasg
  * Comentario Ejercicio 13
+ * Comentario Ejercicio 15
  */
 public class Factorial {
     public static int calculo(int n){
